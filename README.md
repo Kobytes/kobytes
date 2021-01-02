@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **a music social network & artificial intelligence on League of Legends**
 
-- 🌱 I’m currently learning **Python 📍**
+- 🌱 I’m currently learning **Ruby 📍**
 
-- 👯 I’m looking to collaborate on **a Python project**
+- 👯 I’m looking to collaborate on **a Ruby project**
 
-- 🤝 I’m looking for help with **CSS**
+- 🤝 I’m looking for help with **CSS ❤️**
 
 - 👨‍💻 All of my projects are available at [koby.fr 💫](koby.fr 💫)
 
