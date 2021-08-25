@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kobytes&label=Profile%20views&color=0e75b6&style=flat" alt="kobytes" /> </p>
 
-<p align="left"> <a href="https://twitter.com/tuladitboufi" target="blank"><img src="https://img.shields.io/twitter/follow/tuladitboufi?logo=twitter&style=for-the-badge" alt="tuladitboufi" /></a> </p>
-
 - 🔭 I’m currently working on **Codeli**
 
 - 🌱 I’m currently learning **at Le Wagon 🚃**
