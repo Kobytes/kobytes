@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to you, adventurer! You are in Koby's profile!</h1>
 <h3 align="center">Music devourer of all kinds and apprentice filmmaker. Learning the Ruby language at Le Wagon. Future founder of Codeli - Creator and launcher of responsive website as fast as possible! [🎧 - 💻]</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kobytes&label=Profile%20views&color=0e75b6&style=flat" alt="kobytes" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kobytes&label=Profile%20views&color=0e75b6&style=flat" alt="kobytes" /> </p>
 
 - 🔭 I’m currently working on **Codeli**
 
