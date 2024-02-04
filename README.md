@@ -1,4 +1,5 @@
 <h1 align="center">Welcome to my GitHub profile!</h1>
+<img align="center" src="https://tryhackme-badges.s3.amazonaws.com/KobyTRP.png" alt="TryHackMe">
 <h3 align="center">About me...</h3>
 
 <p align="center">I'm CISO Assistant (Information Systems Security Manager) for a company committed to helping property owners reduce their carbon footprint. Passionate about cybersecurity, I'm currently enrolled in a school to obtain a Master's Degree in Cybersecurity Technical Expert by 2026. My goal is to actively contribute to the protection of IT systems against growing threats.</p>
